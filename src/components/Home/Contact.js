@@ -7,7 +7,7 @@ export default function Contact() {
       <Title title="Contact Us" />
       <div className="row">
         <div className="col-10 col-sm-8 col-md-6 mx-auto">
-          <form action="https://formspree.io/f/xknkjdon" method="POST">
+          <form action="https://form.taxi/s/bdrl2uwm" method="POST">
             <div className="form-group">
               {/* <label htmlFor="name">Name</label> */}
               <input
@@ -16,6 +16,7 @@ export default function Contact() {
                 name="name"
                 id="name"
                 placeholder="Your Name"
+                
               />
             </div>
             <div className="form-group">
