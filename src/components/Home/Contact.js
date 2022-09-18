@@ -10,6 +10,7 @@ export default function Contact() {
           <form action="https://form.taxi/s/bdrl2uwm" method="POST">
             <div className="form-group">
               {/* <label htmlFor="name">Name</label> */}
+              <input type="text" name="_gotcha" value="" style="display:none;"></input>
               <input
                 type="text"
                 className="form-control"
