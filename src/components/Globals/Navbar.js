@@ -20,7 +20,7 @@ export default class Navbar extends Component {
         text: "treatments",
       },
       {
-        id: 5,
+        id: 3,
         path: "/contact",
         text: "contact",
       },
